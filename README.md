@@ -62,11 +62,11 @@ This is a **Flask-based machine learning web application** that predicts traffic
 ---
 
 ## 📁 Project Structure
-├── app.py # Flask backend
-├── model.pkl # Trained ML model
-├── templates/
-│ └── index.html # Main UI template
-├── static/ # (Optional: CSS/images if used)
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation
+```├── app.py # Flask backend
+```├── model.pkl # Trained ML model
+```├── templates/
+```│ └── index.html # Main UI template
+```├── static/ # (Optional: CSS/images if used)
+```├── requirements.txt # List of Python dependencies
+```└── README.md # Project documentation
 
