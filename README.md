@@ -37,6 +37,36 @@ This is a **Flask-based machine learning web application** that predicts traffic
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Suhnitha/Traffic-Intelligence-App.git
-   cd Traffic-Intelligence-App
+    ```bash
+    git clone https://github.com/yourusername/traffic-volume-estimation.git
+    cd traffic-volume-estimation
+    ```
+
+2. **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Place the trained model file** (`model.pkl`) in the project root directory.
+
+4. **Run the Flask app**:
+    ```bash
+    python app.py
+    ```
+
+5. **Open in browser**:
+    ```
+    http://localhost:5000
+    ```
+
+---
+
+## 📁 Project Structure
+├── app.py # Flask backend
+├── model.pkl # Trained ML model
+├── templates/
+│ └── index.html # Main UI template
+├── static/ # (Optional: CSS/images if used)
+├── requirements.txt # List of Python dependencies
+└── README.md # Project documentation
+
