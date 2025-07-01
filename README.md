@@ -38,8 +38,8 @@ This is a **Flask-based machine learning web application** that predicts traffic
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/traffic-volume-estimation.git
-    cd traffic-volume-estimation
+    git clone https://github.com/Suhnitha/Traffic-Intelligence-App.git
+    cd Traffic-Intelligence-App
     ```
 
 2. **Install dependencies**:
